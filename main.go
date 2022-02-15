@@ -10,4 +10,5 @@ funch main () {
 	fmt.println ("F")
 
 	
+	fmt.println ("D")
 }
