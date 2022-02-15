@@ -7,6 +7,7 @@ funch main () {
 	fmt.Println ("A")
 	fmt.Println ("B")
 	fmt.println ("c")
+	fmt.println ("F")
 
 	
 }
