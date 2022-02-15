@@ -11,5 +11,5 @@ funch main () {
 
 	
 	fmt.println ("D")
-	fmt.Println ("Art")
+	fmt.Println ("BAD")
 }
