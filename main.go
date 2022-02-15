@@ -11,5 +11,9 @@ funch main () {
 
 	
 	fmt.println ("D")
+<<<<<<< HEAD
 	fmt.Println ("Art")
+=======
+	fmt.Println ("BAD")
+>>>>>>> fuatureB
 }
